@@ -13,9 +13,7 @@ This bot takes a simple CSV with company names and enriches it with:
 
 ## 🚀 Demo Video
 
-[![AI Lead Enrichment Bot Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-
-*Add your demo video link here*
+[![AI Lead Enrichment Bot Demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://youtu.be/HWAcL8LcP_E?si=8HfjPYL5fUnzSaAM))](https://youtu.be/YOUR_VIDEO_ID)
 
 ## ✨ Features
 
